@@ -72,7 +72,7 @@ const gravity = 0.2
 const jugador = new Jugador({
     position: {
         x: 350,
-        y: 2000,
+        y: 2200,
     },
     colisionSolidos,
     colisionTransparente,
